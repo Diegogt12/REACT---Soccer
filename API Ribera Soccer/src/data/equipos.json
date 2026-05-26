@@ -1,0 +1,222 @@
+[
+    {
+        "id_equipo": "347",
+        "nombre_mostrar": "Athletic",
+        "nombre": "Athletic Club",
+        "nombre_corto": "ATH",
+        "año": "2025",
+        "color": "#f82e2e",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/347.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/athletic/",
+        "enlace2": "https://www.marca.com/futbol/athletic.html?intcmp=MENUESCU&s_kw=athletic"
+    },
+    {
+        "id_equipo": "369",
+        "nombre_mostrar": "Atlético",
+        "nombre": "Club Atlético de Madrid",
+        "nombre_corto": "ATM",
+        "año": "2025",
+        "color": "#d22426",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/369.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/atletico-madrid/",
+        "enlace2": "https://www.marca.com/futbol/atletico.html?intcmp=MENUESCU&s_kw=atletico"
+    },
+    {
+        "id_equipo": "429",
+        "nombre_mostrar": "Barcelona",
+        "nombre": "Fútbol Club Barcelona",
+        "nombre_corto": "FCB",
+        "año": "2025",
+        "color": "#a40047",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/429.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/fc-barcelona/",
+        "enlace2": "https://www.marca.com/futbol/barcelona.html?intcmp=MENUESCU&s_kw=barcelona"
+    },
+    {
+        "id_equipo": "712",
+        "nombre_mostrar": "Celta",
+        "nombre": "Real Club Celta de Vigo SAD",
+        "nombre_corto": "CEL",
+        "año": "2025",
+        "color": "#6cace4",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/712.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/real-club-celta-de-vigo/",
+        "enlace2": "https://www.marca.com/futbol/celta.html?intcmp=MENUESCU&s_kw=celta"
+    },
+    {
+        "id_equipo": "137",
+        "nombre_mostrar": "Deportivo Alavés",
+        "nombre": "Deportivo Alavés S.A.D.",
+        "nombre_corto": "ALA",
+        "año": "2025",
+        "color": "#0164b7",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/137.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/deportivo-alaves/",
+        "enlace2": "https://www.marca.com/futbol/alaves.html?intcmp=MENUESCU&s_kw=alaves"
+    },
+    {
+        "id_equipo": "998",
+        "nombre_mostrar": "Espanyol",
+        "nombre": "Real Club Deportivo Espanyol",
+        "nombre_corto": "ESP",
+        "año": "2025",
+        "color": "#1e6bc0",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/998.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/rcd-espanyol/",
+        "enlace2": "https://www.marca.com/futbol/espanyol.html?intcmp=MENUESCU&s_kw=espanyol"
+    },
+    {
+        "id_equipo": "1217",
+        "nombre_mostrar": "Getafe",
+        "nombre": "Getafe Club de Fútbol SAD",
+        "nombre_corto": "GET",
+        "año": "2025",
+        "color": "#00369e",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/1217.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/getafe-cf/",
+        "enlace2": "https://www.marca.com/futbol/getafe.html?intcmp=MENUESCU&s_kw=getafe"
+    },
+    {
+        "id_equipo": "1236",
+        "nombre_mostrar": "Girona",
+        "nombre": "Girona Fútbol Club SAD",
+        "nombre_corto": "GIR",
+        "año": "2025",
+        "color": "#c50f27",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/1236.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/girona-cf/",
+        "enlace2": "https://www.marca.com/futbol/girona.html?intcmp=MENUESCU&s_kw=girona"
+    },
+    {
+        "id_equipo": "2563",
+        "nombre_mostrar": "Las Palmas",
+        "nombre": "Unión Deportiva Las Palmas SAD",
+        "nombre_corto": "UDL",
+        "año": "2025",
+        "color": "#ffd200",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/2563.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/ud-las-palmas/",
+        "enlace2": "https://www.marca.com/futbol/las-palmas.html?intcmp=MENUESCU&s_kw=laspalmas"
+    },
+    {
+        "id_equipo": "1535",
+        "nombre_mostrar": "Leganés",
+        "nombre": "Club Deportivo Leganés SAD",
+        "nombre_corto": "LEG",
+        "año": "2025",
+        "color": "#0957c3",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/1535.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/cd-leganes/",
+        "enlace2": "https://www.marca.com/futbol/leganes.html?intcmp=MENUESCU&s_kw=leganes"
+    },
+    {
+        "id_equipo": "1623",
+        "nombre_mostrar": "Mallorca",
+        "nombre": "Real Club Deportivo Mallorca",
+        "nombre_corto": "MLL",
+        "año": "2025",
+        "color": "#c01624",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/1623.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/real-mallorca/",
+        "enlace2": "https://www.marca.com/futbol/mallorca.html?intcmp=MENUESCU&s_kw=mallorca"
+    },
+    {
+        "id_equipo": "1887",
+        "nombre_mostrar": "Osasuna",
+        "nombre": "Club Atlético Osasuna",
+        "nombre_corto": "OSA",
+        "año": "2025",
+        "color": "#b4001b",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/1887.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/osasuna/",
+        "enlace2": "https://www.marca.com/futbol/osasuna.html?intcmp=MENUESCU&s_kw=osasuna"
+    },
+    {
+        "id_equipo": "2080",
+        "nombre_mostrar": "Rayo Vallecano",
+        "nombre": "Rayo Vallecano de Madrid SAD",
+        "nombre_corto": "RAY",
+        "año": "2025",
+        "color": "#e53027",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/2080.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/rayo-vallecano/",
+        "enlace2": "https://www.marca.com/futbol/rayo.html?intcmp=MENUESCU&s_kw=rayo"
+    },
+    {
+        "id_equipo": "486",
+        "nombre_mostrar": "Real Betis",
+        "nombre": "Real Betis Balompié",
+        "nombre_corto": "BET",
+        "año": "2025",
+        "color": "#009655",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/486.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/real-betis/",
+        "enlace2": "https://www.marca.com/futbol/betis.html?intcmp=MENUESCU&s_kw=betis"
+    },
+    {
+        "id_equipo": "2107",
+        "nombre_mostrar": "Real Madrid",
+        "nombre": "Real Madrid Club de Fútbol",
+        "nombre_corto": "RMA",
+        "año": "2025",
+        "color": "#0255a5",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/2107.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/real-madrid/",
+        "enlace2": "https://www.marca.com/futbol/real-madrid.html?intcmp=MENUESCU&s_kw=realmadrid"
+    },
+    {
+        "id_equipo": "2120",
+        "nombre_mostrar": "Real Sociedad",
+        "nombre": "Real Sociedad de Fútbol SAD",
+        "nombre_corto": "RSO",
+        "año": "2025",
+        "color": "#0058b1",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/2120.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/real-sociedad/",
+        "enlace2": "https://www.marca.com/futbol/real-sociedad.html?intcmp=MENUESCU&s_kw=realsociedad"
+    },
+    {
+        "id_equipo": "2654",
+        "nombre_mostrar": "Real Valladolid",
+        "nombre": "Real Valladolid Club de Fútbol",
+        "nombre_corto": "VAD",
+        "año": "2025",
+        "color": "#7c4894",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/2654.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/real-valladolid/",
+        "enlace2": "https://www.marca.com/futbol/valladolid.html?intcmp=MENUESCU&s_kw=valladolid"
+    },
+    {
+        "id_equipo": "1102",
+        "nombre_mostrar": "Sevilla",
+        "nombre": "Sevilla Fútbol Club",
+        "nombre_corto": "SEV",
+        "año": "2025",
+        "color": "#ff0000",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/1102.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/sevilla-futbol-club/",
+        "enlace2": "https://www.marca.com/futbol/sevilla.html?intcmp=MENUESCU&s_kw=sevilla"
+    },
+    {
+        "id_equipo": "2647",
+        "nombre_mostrar": "Valencia",
+        "nombre": "Valencia Club de Fútbol",
+        "nombre_corto": "VCF",
+        "año": "2025",
+        "color": "#ff671f",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/2647.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/valencia-cf/",
+        "enlace2": "https://www.marca.com/futbol/valencia.html?intcmp=MENUESCU&s_kw=valencia"
+    },
+    {
+        "id_equipo": "2716",
+        "nombre_mostrar": "Villarreal",
+        "nombre": "Villarreal Club de Fútbol",
+        "nombre_corto": "VIL",
+        "año": "2025",
+        "color": "#ffe715",
+        "escudo": "https://cdn.resfu.com/img_data/equipos/2716.png?size=200x&lossy=1&v=46",
+        "enlace1": "https://as.com/noticias/villarreal-cf/",
+        "enlace2": "https://www.marca.com/futbol/villarreal.html?intcmp=MENUESCU&s_kw=villarreal"
+    }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": 0,
+    "password": "Admin-000",
+    "email": "admin.admin@riberadeltajo.es"
+  },
+  {
+    "id": 1,
+    "nombre": "Carlos",
+    "apellidos": "Alfaro Paniagua",
+    "password": "Carlos-000",
+    "fecha_nacimiento": "10/04/83",
+    "direccion": "Calle de los Vientos 123",
+    "telefono": "600123456",
+    "email": "carlos.alfaro@riberadeltajo.es"
+  },
+  {
+    "id": 2,
+    "nombre": "Ricardo",
+    "apellidos": "de la Hoz Martín",
+    "password": "Ricardo-000",
+    "fecha_nacimiento": "29/01/81",
+    "direccion": "Avenida Siempreviva 742",
+    "telefono": "601234567",
+    "email": "ricardo.delahoz@riberadeltajo.es"
+  },
+  {
+    "id": 3,
+    "nombre": "Estela",
+    "apellidos": "Fuentes Álvarez",
+    "password": "Estela-000",
+    "fecha_nacimiento": "12/09/91",
+    "direccion": "Calle del Sol 56",
+    "telefono": "602345678",
+    "email": "estela.fuentes@riberadeltajo.es"
+  },
+  {
+    "id": 4,
+    "nombre": "Jose María",
+    "apellidos": "García Fernández",
+    "password": "Jose María-000",
+    "fecha_nacimiento": "28/08/95",
+    "direccion": "Paseo de los Olivos 98",
+    "telefono": "603456789",
+    "email": "josemaria.garcia@riberadeltajo.es"
+  },
+  {
+    "id": 5,
+    "nombre": "Alvaro",
+    "apellidos": "Gómez Cedenilla",
+    "password": "Alvaro-000",
+    "fecha_nacimiento": "25/09/92",
+    "direccion": "Calle Luna 77",
+    "telefono": "604567890",
+    "email": "alvaro.gomez@riberadeltajo.es"
+  },
+  {
+    "id": 6,
+    "nombre": "Mario",
+    "apellidos": "Gómez Vinuesa",
+    "password": "Mario-000",
+    "fecha_nacimiento": "23/11/03",
+    "direccion": "Plaza Mayor 21",
+    "telefono": "605678901",
+    "email": "mario.gomez@riberadeltajo.es"
+  },
+  {
+    "id": 7,
+    "nombre": "Javier",
+    "apellidos": "Jiménez Sáez",
+    "password": "Javier-000",
+    "fecha_nacimiento": "21/04/88",
+    "direccion": "Callejón del Gato 5",
+    "telefono": "606789012",
+    "email": "javier.jimenez@riberadeltajo.es"
+  },
+  {
+    "id": 8,
+    "nombre": "Laura",
+    "apellidos": "Liquete Gómez",
+    "password": "Laura-000",
+    "fecha_nacimiento": "14/01/85",
+    "direccion": "Boulevard de los Sueños 101",
+    "telefono": "607890123",
+    "email": "laura.liquete@riberadeltajo.es"
+  },
+  {
+    "id": 9,
+    "nombre": "Adrian",
+    "apellidos": "Martín Muñoz",
+    "password": "Adrian-000",
+    "fecha_nacimiento": "25/06/02",
+    "direccion": "Calle Marte 78",
+    "telefono": "609012345",
+    "email": "adrian.martin@riberadeltajo.es"
+  },
+  {
+    "id": 10,
+    "nombre": "Daniel",
+    "apellidos": "Martín Rol",
+    "password": "DanielM-000",
+    "fecha_nacimiento": "11/01/94",
+    "direccion": "Avenida de la Paz 11",
+    "telefono": "610123456",
+    "email": "daniel.martin@riberadeltajo.es"
+  },
+  {
+    "id": 11,
+    "nombre": "Jorge",
+    "apellidos": "Mirado Carrasco",
+    "password": "Jorge-000",
+    "fecha_nacimiento": "03/10/93",
+    "direccion": "Calle Águila 44",
+    "telefono": "611234567",
+    "email": "jorge.mirado@riberadeltajo.es"
+  },
+  {
+    "id": 12,
+    "nombre": "Rodrigo",
+    "apellidos": "Moreno Bielsa",
+    "password": "Rodrigo-000",
+    "fecha_nacimiento": "03/10/93",
+    "direccion": "Paseo del Prado 67",
+    "telefono": "612345678",
+    "email": "rodrigo.moreno@riberadeltajo.es"
+  },
+  {
+    "id": 13,
+    "nombre": "Ismael",
+    "apellidos": "Mortahil Chachou",
+    "password": "Ismael-000",
+    "fecha_nacimiento": "01/08/01",
+    "direccion": "Camino Verde 23",
+    "telefono": "613456789",
+    "email": "ismael.mortahil@riberadeltajo.es"
+  },
+  {
+    "id": 14,
+    "nombre": "Alba",
+    "apellidos": "Peña González",
+    "password": "Alba-000",
+    "fecha_nacimiento": "17/07/01",
+    "direccion": "Calle Nieve 88",
+    "telefono": "614567890",
+    "email": "alba.pena@riberadeltajo.es"
+  },
+  {
+    "id": 15,
+    "nombre": "Victor",
+    "apellidos": "Pinero Ollero",
+    "password": "Victor-000",
+    "fecha_nacimiento": "27/07/96",
+    "direccion": "Avenida Central 456",
+    "telefono": "615678901",
+    "email": "victor.pinero@riberadeltajo.es"
+  },
+  {
+    "id": 16,
+    "nombre": "Oscar",
+    "apellidos": "Redondo Fernández",
+    "password": "OscarR-000",
+    "fecha_nacimiento": "24/04/88",
+    "direccion": "Calle Roble 31",
+    "telefono": "616789012",
+    "email": "oscar.redondo@riberadeltajo.es"
+  },
+  {
+    "id": 17,
+    "nombre": "Daniel",
+    "apellidos": "Resino Jiménez",
+    "password": "DanielR-000",
+    "fecha_nacimiento": "31/10/89",
+    "direccion": "Calle Sauce 12",
+    "telefono": "617890123",
+    "email": "daniel.resino@riberadeltajo.es"
+  },
+  {
+    "id": 18,
+    "nombre": "Tania",
+    "apellidos": "Robledo Abenojar",
+    "password": "Tania-000",
+    "fecha_nacimiento": "03/06/84",
+    "direccion": "Calle Brisa 43",
+    "telefono": "619012345",
+    "email": "tania.robledo@riberadeltajo.es"
+  },
+  {
+    "id": 19,
+    "nombre": "Sergio",
+    "apellidos": "Rueda González",
+    "password": "Sergio-000",
+    "fecha_nacimiento": "17/06/88",
+    "direccion": "Callejón Azul 8",
+    "telefono": "620123456",
+    "email": "sergio.rueda@riberadeltajo.es"
+  },
+  {
+    "id": 20,
+    "nombre": "Oscar",
+    "apellidos": "Sánchez Avellan",
+    "password": "OscarS-000",
+    "fecha_nacimiento": "21/03/92",
+    "direccion": "Avenida del Bosque 55",
+    "telefono": "621234567",
+    "email": "oscar.sanchez@riberadeltajo.es"
+  },
+  {
+    "id": 21,
+    "nombre": "David",
+    "apellidos": "Sánchez Cuadrado",
+    "password": "David-000",
+    "fecha_nacimiento": "12/08/82",
+    "direccion": "Calle Blanca 22",
+    "telefono": "622345678",
+    "email": "david.sanchez@riberadeltajo.es"
+  },
+  {
+    "id": 22,
+    "nombre": "Jose Luis",
+    "apellidos": "Vázquez Aceituno",
+    "password": "JoseLuis-000",
+    "fecha_nacimiento": "11/11/00",
+    "direccion": "Calle Coral 6",
+    "telefono": "624567890",
+    "email": "joseluis.vazquez@riberadeltajo.es"
+  }
+]

@@ -1,0 +1,48 @@
+.equipo {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  gap: 2rem;
+}
+
+.separador {
+  border: 0.01rem solid var(--background-color);
+}
+
+.equipodetail {
+  font-family: "Rubik";
+  color: var(--background-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.equipodetail__img {
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.equipo__links {
+  display: flex;
+  gap: 10px;
+  margin-top: 1rem;
+}
+.equipo__link {
+  width: 125px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--background-color);
+  background-color: var(--background-color);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-family: "Rubik";
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
