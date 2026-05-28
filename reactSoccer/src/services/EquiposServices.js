@@ -5,6 +5,6 @@ export const cargarEquipos = async () => {
 };
 
 export const cargarPlantilla = async (id_equipo) =>{
-    const res = await fetch('http://localhost:3000/soccer/players/'+id_equipo)
+    const res = await fetch('http://localhost:3000/soccer/players/'+id_equipo);
     return await res.json()
 }

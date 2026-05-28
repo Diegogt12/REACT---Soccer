@@ -1,7 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Formulario from "./components/Formulario";
-import Home from "./components/Home";
-import Detalles from "./components/Detalles";
+import Home from "./pages/Home";
+import TeamPage from "./pages/TeamPage";
+import Plantilla from "./components/Plantilla";
 
 const AppRoutes = () => {
     return (
@@ -10,10 +11,10 @@ const AppRoutes = () => {
                 <Route path="/" element={<Formulario />} />
 
                 <Route path="/home" element={<Home />} >
-                     <Route path=":id_equipo" element={<Detalles/>}>
-                        {/* <Route path="plantilla/:id_equipo" element={<Plantilla/>}/> */}
-                    </Route> 
-                </Route> 
+                    <Route path=":id_equipo" element={<TeamPage/>}>
+                        <Route path="plantilla/:id_plantilla" element={<Plantilla/>}/> 
+                    </Route>
+                </Route>
 
             </Routes>
         </BrowserRouter>

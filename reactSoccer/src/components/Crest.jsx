@@ -16,7 +16,7 @@ const Crest = () =>{
     return (
         <div className="crest" >
             {equipos && equipos.map(equipo => (
-                <img className="crest__img" key={equipo.id_equipo} src={equipo.escudo} onClick={() => handleSelectEquipo(equipo)} style={{cursor: 'pointer'}} />
+                <img className="crest__img" key={equipo.id_equipo} src={equipo.escudo} onClick={() => handleSelectEquipo(equipo)} />
             ))}
         </div>
     )
